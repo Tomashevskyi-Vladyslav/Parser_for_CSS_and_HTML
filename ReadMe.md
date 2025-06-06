@@ -4,7 +4,7 @@ A C++ CSS Parser
 
 [![LISCENSE](https://img.shields.io/packagist/l/doctrine/orm.svg)](./LICENSE.md)
 
-### This is a fork of luojilab´s [DDCSSParser](https://github.com/luojilab/CSSParser "DDCSSParser").<br>Full credits goes to [luojilab](https://github.com/luojilab "luojilab") for writing the CSS Parser and Gumbo code.
+### This is a fork of luojilab´s [DDCSSParser](https://github.com/luojilab/CSSParser "DDCSSParser").<br>Full credits goes to Tomashevskyi-Vladyslav for writing the CSS Parser and Gumbo code.
 ------
 
 CSSParser++ is a C++ CSS parser and selector, that can read full CSS stylesheets or standalone CSS strings and match the rules with a custom node tree provided by the 

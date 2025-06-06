@@ -1,4 +1,4 @@
-# CSSParser++
+# Parser_for_CSS_and_HTML
 
 A C++ CSS Parser
 
@@ -28,7 +28,7 @@ Please check the CustomNodeExample project for a full example.
 
 ##### Using the Code
 
-* Clone the source code into a working directory `git clone https://github.com/Xanashi/CSSParser.git`
+* Clone the source code into a working directory `git clone https://github.com/Tomashevskyi-Vladyslav/Parser_for_CSS_and_HTML.git`
 * Open the Visual Studio solution
 * Build the CSSParser library (in Release mode)
 * Link the compiled cssparser.lib in your project, and add the "CssParser\include" directory to your include path. 
